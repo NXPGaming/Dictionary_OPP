@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BTL_OPP.iml" filepath="$PROJECT_DIR$/.idea/BTL_OPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/OPP.iml" filepath="$PROJECT_DIR$/OPP/OPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/dât.iml" filepath="$PROJECT_DIR$/OPP/dât.iml" />
+    </modules>
+  </component>
+</project>
